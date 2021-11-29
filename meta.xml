@@ -1,0 +1,5 @@
+<meta>
+	<info author="Sc4r" name="sOcultarTela" version="1.0" type="Script"/>
+    <script src="sc4r.lua" type="client" cache="false"/>
+	<file src="sc4r.wav"/>
+</meta>
